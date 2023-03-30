@@ -1,4 +1,4 @@
-from functions import add, subtract
+from example import add, subtract
 import pytest
 
 
